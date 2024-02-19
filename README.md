@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufparker&label=Profile%20views&color=0e75b6&style=flat" alt="yusufparker" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://yusufparker.vercel.com/](https://yusufparker.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yusufparker.vercel.app/](https://yusufparker.vercel.app/)
 
 - 💬 Ask me about **web development**
 
