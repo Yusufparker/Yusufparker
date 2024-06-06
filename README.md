@@ -16,3 +16,9 @@ A Computer Engineering student with expertise in Web Development, Content Creati
 - 📫 How to reach me **mrmy160602@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-yusuf-957651240/](https://www.linkedin.com/in/muhammad-yusuf-957651240/)
+
+📈 **My GitHub Stats:**
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufparker&show_icons=true&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufparker&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+</p>
