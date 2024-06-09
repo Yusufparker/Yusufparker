@@ -57,6 +57,5 @@ A Computer Engineering student with expertise in Web Development, Content Creati
 
 
 📈 **My GitHub Stats:**
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufparker&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufparker&show_icons=true&hide_border=true&layout=compact&langs_count=10&exclude_langs=html"/>
+
