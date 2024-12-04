@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mrmy160602@gmail.com)
 
 # Glad to see you here!
-A Computer Engineering student with expertise in Web Development, Content Creation, and Video Editing. They excel in blending creativity with technical skills and have a keen eye for detail and innovation. Their projects include creating diverse video content and developing websites for small businesses, tourism ventures, and organizations. They deliver impactful digital solutions tailored to client needs by merging creativity, technical proficiency, and understanding. In programming, they explore innovative problem-solving, while in editing, they craft engaging visual narratives. They combine technology with creativity to create captivating digital experiences.
+A Computer Engineering student with expertise in Software development, Content Creation, and Video Editing. They excel in blending creativity with technical skills and have a keen eye for detail and innovation. Their projects include creating diverse video content and developing websites for small businesses, tourism ventures, and organizations. They deliver impactful digital solutions tailored to client needs by merging creativity, technical proficiency, and understanding. In programming, they explore innovative problem-solving, while in editing, they craft engaging visual narratives. They combine technology with creativity to create captivating digital experiences.
 
 
 - 👨‍💻 All of my projects are available at [https://yusufparker.com/](https://yusufparker.com/)
