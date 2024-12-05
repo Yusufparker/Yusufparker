@@ -44,7 +44,8 @@ A Computer Engineering student with expertise in Software development, Content C
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/37836f05c5f1be5ecde13422aa241464e33e2c24/topics/nextjs/nextjs.png" />
+
+<img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
 
 <img align="left" alt="Prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
 
