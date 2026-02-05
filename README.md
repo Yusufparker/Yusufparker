@@ -11,7 +11,7 @@ A Computer Engineering student with expertise in Software development, Content C
 
 - 👨‍💻 All of my projects are available at [https://muhammadyusuf-6dwz.vercel.app/](https://muhammadyusuf-6dwz.vercel.app/)
 
-- 📫 How to reach me **muhyusuf@gmail.com**
+- 📫 How to reach me **muhyusuf160602@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-yusuf-957651240/](https://www.linkedin.com/in/muhammad-yusuf-957651240/)
 
