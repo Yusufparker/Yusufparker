@@ -9,7 +9,7 @@
 A Computer Engineering student with expertise in Software development, Content Creation, and Video Editing. They excel in blending creativity with technical skills and have a keen eye for detail and innovation. Their projects include creating diverse video content and developing websites for small businesses, tourism ventures, and organizations. They deliver impactful digital solutions tailored to client needs by merging creativity, technical proficiency, and understanding. In programming, they explore innovative problem-solving, while in editing, they craft engaging visual narratives. They combine technology with creativity to create captivating digital experiences.
 
 
-- 👨‍💻 All of my projects are available at [https://yusufparker.com/](https://yusufparker.com/)
+- 👨‍💻 All of my projects are available at [https://muhammadyusuf-6dwz.vercel.app/](https://muhammadyusuf-6dwz.vercel.app/)
 
 - 📫 How to reach me **muhyusuf@gmail.com**
 
